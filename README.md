@@ -41,7 +41,7 @@ The analysis uses descriptive statistics and regression models to study the rela
 The preliminary results suggest that:
 
 - Weekly AI usage does not show a clear relationship with post-semester GPA.
-- Weekly AI usage does not show a clear relationship with skill retention.
+- Weekly AI usage deteriorate skill retention.
 - Weekly AI usage appears to be associated with burnout risk.
 - The results should be interpreted as associations, not causal effects.
 
